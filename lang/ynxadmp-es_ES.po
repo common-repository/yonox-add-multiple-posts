@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yonox Add Multiple Posts\n"
+"POT-Creation-Date: 2017-01-12 19:33+0100\n"
+"PO-Revision-Date: 2017-01-12 20:04+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: yonox-add-multiple-posts.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ynxadmp-admin-panel.php:8
+msgid "Process finished OK."
+msgstr "El proceso finalizó correctamente."
+
+#: ynxadmp-admin-panel.php:9
+msgid "No titles found."
+msgstr "No se han encontrado títulos."
+
+#: ynxadmp-admin-panel.php:14
+msgid "Option"
+msgstr "Opción"
+
+#: ynxadmp-admin-panel.php:15
+msgid "Setting"
+msgstr "Configuración"
+
+#: ynxadmp-admin-panel.php:20
+msgid "Post Type:"
+msgstr "Tipo de entrada:"
+
+#: ynxadmp-admin-panel.php:23
+msgid "Post"
+msgstr "Entrada"
+
+#: ynxadmp-admin-panel.php:24
+msgid "Page"
+msgstr "Página"
+
+#: ynxadmp-admin-panel.php:29
+msgid "Status:"
+msgstr "Estado:"
+
+#: ynxadmp-admin-panel.php:32
+msgid "Published"
+msgstr "Publicado"
+
+#: ynxadmp-admin-panel.php:33
+msgid "Pending Review"
+msgstr "Pendiente de revisión"
+
+#: ynxadmp-admin-panel.php:34
+msgid "Draft"
+msgstr "Borrador"
+
+#: ynxadmp-admin-panel.php:39
+msgid "Posts Titles:"
+msgstr "Títulos de Entradas:"
+
+#: ynxadmp-admin-panel.php:40
+msgid "One post on each line"
+msgstr "Una entrada por cada línea"
+
+#: ynxadmp-admin-panel.php:46
+msgid "Posts Content:"
+msgstr "Contenido de Entradas:"
+
+#: ynxadmp-admin-panel.php:47
+msgid "Can be shortcodes or any things"
+msgstr "Shortcodes o cualquier cosa"
+
+#: ynxadmp-admin-panel.php:54
+msgid "Category:"
+msgstr "Categoría:"
+
+#: ynxadmp-admin-panel.php:66
+msgid "Parent:"
+msgstr "Página superior:"
+
+#: ynxadmp-admin-panel.php:71
+msgid "none"
+msgstr "nada"
+
+#: ynxadmp-admin-panel.php:78
+msgid "Author of Posts:"
+msgstr "Autor de las entradas:"
+
+#: ynxadmp-admin-panel.php:93
+msgid "Progress Bar:"
+msgstr "Barra de progreso:"
+
+#: ynxadmp-admin-panel.php:102
+msgid "Create Multiple Posts"
+msgstr "Crear Entradas"
+
+#: ynxadmp-admin-panel.php:103
+msgid "Reset Form"
+msgstr "Limpiar Formulario"
+
+#. Plugin Name of the plugin/theme
+#: yonox-add-multiple-posts.php:31
+msgid "Yonox Add Multiple Posts"
+msgstr ""
+
+#: yonox-add-multiple-posts.php:31
+msgid "Yonox Add Posts"
+msgstr ""
+
+#: yonox-add-multiple-posts.php:43
+msgid "Processing..."
+msgstr "Procesando..."
+
+#: yonox-add-multiple-posts.php:44
+msgid "posts created"
+msgstr "entradas creadas"
+
+#: yonox-add-multiple-posts.php:45
+msgid "Process finished OK with"
+msgstr "Proceso terminado con"
+
+#: yonox-add-multiple-posts.php:46
+msgid "Finished with"
+msgstr "Terminado con"
+
+#: yonox-add-multiple-posts.php:63
+msgid "Security Failed!"
+msgstr "Fállo de seguridad."
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.cursonix.com/yonox-add-multiple-posts/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add multiple posts or pages to edit later."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Yonox"
+msgstr ""

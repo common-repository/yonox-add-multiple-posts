@@ -1,0 +1,77 @@
+::selection { background: #5f74a0; color: #fff; }
+::-moz-selection { background: #5f74a0; color: #fff; }
+::-webkit-selection { background: #5f74a0; color: #fff; }
+
+.errornocnts{
+	margin: 40px;
+	color: #CA2727;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+table { border-collapse: collapse; border-spacing: 0; }
+img { border: 0; max-width: 100%; }
+
+.btn_front_panel_link{
+	color: #fff;
+	text-decoration: none;
+	text-shadow: 0 0 1px #000;
+	font-weight: 600;
+}
+.btn_front_panel_link:hover{
+	color: #E9F4FF;
+}
+
+#keywords {
+  margin: 10px auto;
+  font-size: 1.1em;
+  margin-bottom: 15px;
+}
+
+
+#keywords thead {
+  cursor: pointer;
+  background: #4A8DC0;
+  color: #fff;
+  text-shadow: 0 0 1px #000;
+}
+#keywords thead tr th { 
+  font-weight: bold;
+  padding: 10px;
+}
+#keywords thead tr th span { 
+  padding-right: 20px;
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+}
+
+#keywords thead tr th.headerSortUp, #keywords thead tr th.headerSortDown {
+  background: #175D91;
+}
+
+#keywords thead tr th.headerSortUp span {
+  background-image: url('../img/up_arrange.png');
+}
+#keywords thead tr th.headerSortDown span {
+  background-image: url('../img/down_arrange.png');
+}
+
+
+#keywords tbody tr { 
+  color: #555;
+}
+#keywords tbody tr td {
+  text-align: center;
+  padding: 6px;
+}
+#keywords tbody tr td.lalign {
+  text-align: left;
+}
+
+#ynx_loading_ajax{
+	display: none;
+	width: 24px;
+	margin-left: 10px;
+}
+
+/*-- Progress Bar Styles --*/
